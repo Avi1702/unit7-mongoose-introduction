@@ -1,0 +1,24 @@
+{
+  "name": "unit7-mongoose-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avi1702/unit7-mongoose-introduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avi1702/unit7-mongoose-introduction/issues"
+  },
+  "homepage": "https://github.com/Avi1702/unit7-mongoose-introduction#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  }
+}
